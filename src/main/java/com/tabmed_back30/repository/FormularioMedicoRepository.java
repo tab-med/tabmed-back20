@@ -1,4 +1,4 @@
-package repository;
+package com.tabmed_back30.repository;
 
 import com.tabmed_back30.model.FormularioMedico;
 import com.tabmed_back30.model.Usuario;
