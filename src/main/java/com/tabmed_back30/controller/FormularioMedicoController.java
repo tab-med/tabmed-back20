@@ -1,9 +1,9 @@
-package com.tabmed_back30.controller;
+package com.tabmed20.controller;
 
-import com.tabmed_back30.model.FormularioMedico;
-import com.tabmed_back30.model.Usuario;
-import com.tabmed_back30.services.FormularioMedicoService;
-import com.tabmed_back30.services.UsuarioService;
+import com.tabmed20.model.FormularioMedico;
+import com.tabmed20.model.Usuario;
+import com.tabmed20.services.FormularioMedicoService;
+import com.tabmed20.services.UsuarioService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
