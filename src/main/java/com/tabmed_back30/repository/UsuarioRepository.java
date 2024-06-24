@@ -1,6 +1,6 @@
-package com.tabmed_back30.repository;
+package com.tabmed20.repository;
 
-import com.tabmed_back30.model.Usuario;
+import com.tabmed20.model.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
